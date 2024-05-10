@@ -1,6 +1,7 @@
 # Json to Excel Convertor
 
-This tool is used to transfer data in a Json file to an Excel file.
+This script converts JSON files to Excel format using Python. It provides a simple web interface built with Streamlit for file upload and conversion.
+
 
 ## Installation
 
@@ -18,7 +19,7 @@ pip install -r requirements.txt
 - output.xlsx - Example output excel file.
 
 ## Usage
-- Install the required libraries:
+- Install the required libraries:\
 - Run the script
 
   ```bash
