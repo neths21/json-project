@@ -19,7 +19,7 @@ pip install -r requirements.txt
 - output.xlsx - Example output excel file.
 
 ## Usage
-- Install the required libraries:\
+- Install the required libraries
 - Run the script
 
   ```bash
